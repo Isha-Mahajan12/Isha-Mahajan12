@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Isha-Mahajan12
-- 👀 I’m interested in global affairs, public management and market research
-- 🌱 I’m currently learning methods in data analytics and computional social science with R 
+- 👀 I’m interested in Global Affairs, Business development and Analytics 
+- 🌱 I’m currently learning methods in data analytics computional social science with R 
 - 📫 Reach me @imahajan@umass.edu
 
 <!---
