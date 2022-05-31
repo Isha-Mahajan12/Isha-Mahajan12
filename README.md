@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Isha-Mahajan12
-- 👀 I’m interested in Social Networks,Text-Mining and Machine Learning 
+- 👀 I’m interested in Global Development, Quantitative Methods and Machine Learning
 - 🌱 I’m currently searching for open roles that enable me leverage my knowledge in data and analytics
 - 📫 Reach me @imahajan@umass.edu
 
