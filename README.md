@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Isha-Mahajan12
 - 👀 I’m interested in Global Development, Quantitative Methods and Machine Learning
-- 🌱 I’m currently searching for open roles that enable me leverage my knowledge in data and analytics
+- 🌱 I’m currently searching for open roles that enable me leverage my knowledge in data analytics, research and social science
 - 📫 Reach me @imahajan@umass.edu
 
 <!---
